@@ -1,6 +1,6 @@
-# Pronóstico del Tiempo
+# Weather Forecast
 
-Pronóstico del Tiempo es una aplicación web desarrollada utilizando **HTML5**, **CSS** y **JavaScript**. Puedes visitarla [aquí](https://meteo-forecast-yb1k.vercel.app/).
+Weather Forecast es una aplicación web desarrollada utilizando **HTML5**, **CSS** y **JavaScript**. Puedes visitarla [aquí](https://meteo-forecast-yb1k.vercel.app/).
 
 ![Demostración del Pronóstico del Tiempo](https://s5.gifyu.com/images/SR97Y.gif)
 
