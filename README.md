@@ -1,6 +1,8 @@
 ## Weather Forecast
 
-Aplicación web meteorológica desarrollada utilizando **HTML5**, **CSS** y **JavaScript**.
+Aplicación web meteorológica desarrollada utilizando **HTML5**, **CSS** y **JavaScript**. Puedes visitarla [aquí](https://meteo-forecast-yb1k.vercel.app/)
+
+![](https://s5.gifyu.com/images/SR97Y.gif)
 
 En el presente proyecto hemos creado una web que utiliza los datos de geolocalización del usuario para
 obtener información meteorológica básica de las siguientes 8 horas, siempre en la posición del usuario.
