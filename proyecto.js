@@ -18,7 +18,7 @@ button.addEventListener('click', () => {
                 let longitude = position.coords.longitude;
 
                 //Establecemos la URL de la API modificada con los datos de latitud y longitud.
-                const apiKey = 'ffc6c69190c14ceda0d8fa8685aeaa0f';
+                const apiKey = 'a76e7a7eecdd4b26b36e96c33e3dfdcc';
                 const url = `https://api.weatherbit.io/v2.0/forecast/hourly?lat=${latitude}&lon=${longitude}&key=${apiKey}&hours=8`;
 
                 // Hacemos las peticiones a la API mediante el método Fetch
